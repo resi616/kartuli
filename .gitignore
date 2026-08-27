@@ -11,5 +11,4 @@ dist/
 .DS_Store
 
 # Data
-backend/data/raw/
-backend/data/cache/
+backend/data/dataset/
